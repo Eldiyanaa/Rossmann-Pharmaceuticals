@@ -47,7 +47,7 @@ This project aims to forecast sales across multiple Rossmann store locations six
 To clone this project, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/rossmann-sales-forecasting.git
+git clone git@github.com:Eldiyanaa/Rossmann-Pharmaceuticals.git
 ```
 ## License
 
